@@ -58,17 +58,6 @@ Atualmente, trabalho com **estruturação e padronização de processos**, crian
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,python,git,github,vscode,figma" />
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📂 Projetos em Destaque
 
 🔹 **Sistema de Gestão de Processos**
