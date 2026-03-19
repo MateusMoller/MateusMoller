@@ -86,10 +86,10 @@ Criando soluções que tragam **eficiência, organização e inteligência opera
 ## 📫 Contato
 
 <p>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/mateus-henrique-m%C3%B6ller?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:mateushmoller@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
